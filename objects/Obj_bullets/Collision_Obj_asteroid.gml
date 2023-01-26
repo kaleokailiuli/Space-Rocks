@@ -1,3 +1,5 @@
+score += 10;
+
 instance_destroy();
 
 with(other){
@@ -19,3 +21,4 @@ with(other){
 	}
 	
 }
+
