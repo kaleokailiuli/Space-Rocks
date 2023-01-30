@@ -17,6 +17,7 @@
     {"id":{"name":"Fnt_text","path":"fonts/Fnt_text/Fnt_text.yy",},"order":0,},
     {"id":{"name":"Obj_bullets","path":"objects/Obj_bullets/Obj_bullets.yy",},"order":2,},
     {"id":{"name":"Rm_Win","path":"rooms/Rm_Win/Rm_Win.yy",},"order":2,},
+    {"id":{"name":"Spr_armageddon","path":"sprites/Spr_armageddon/Spr_armageddon.yy",},"order":6,},
     {"id":{"name":"Spr_asteroid_small","path":"sprites/Spr_asteroid_small/Spr_asteroid_small.yy",},"order":1,},
     {"id":{"name":"Rm_game","path":"rooms/Rm_game/Rm_game.yy",},"order":0,},
   ],
