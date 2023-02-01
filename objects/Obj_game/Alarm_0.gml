@@ -1,3 +1,6 @@
+if(room != Rm_game){
+	exit;
+}
 if(choose(0,1) == 0){
 	var xx = choose(0, room_width);
 	var yy = irandom_range(0, room_height);
